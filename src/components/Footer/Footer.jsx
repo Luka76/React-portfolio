@@ -7,10 +7,10 @@ import {FiTwitter} from 'react-icons/fi'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>Batman</a>
+      <a href="#header" className='footer__logo'>Batman</a>
 
       <ul className="permalinks">
-        <li><a href="#">Home</a></li>
+        <li><a href="#header">Home</a></li>
         <li><a href="#About">About</a></li>
         <li><a href="#Experience">Experience</a></li>
         <li><a href="#Services">Services</a></li>
